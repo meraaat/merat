@@ -1,0 +1,144 @@
+# hugo.yaml
+baseURL: https://meratakbari.com/
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+canonifyURLs: true
+keywords: [MerAt, Merat Akbari, Mohammadali Akbari, MerAt]
+languageCode: en-us
+theme: ["github.com/adityatelange/hugo-PaperMod"]
+timeZone: "Europe/Amsterdam"
+title: MerAt Akbari
+enableInlineShortcodes: true
+pygmentsUseClasses: true
+taxonomies:
+  tag: tags
+  series: series
+permalinks:
+  page:
+    posts: ":title/"
+  section:
+    posts: /blog/
+    microblog: /micro/
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+module:
+  imports:
+  - path: github.com/adityatelange/hugo-PaperMod
+
+params:
+  env: production
+  assets:
+    disableHLJS: true
+    favicon: "/favicon.ico"
+    apple_touch_icon: "/apple-touch-icon.png"
+  label:
+    text: "MerAt Akbari"
+    icon: /img/merat.webp
+    iconHeight: 48
+    iconWidth: 48
+  mainSections:
+    - about
+  profileMode:
+    buttons:
+      - name: About
+        url: "/about"
+      - name: Resume
+        url: "/resume"
+      - name: "Contact"
+        url: "/contact"
+    comments: false
+    cover:
+      linkFullImages: true
+    defaultTheme: auto
+    displayFullLangName: true
+    disableThemeToggle: false
+    disableSpecial1stPost: true
+    enabled: true
+    fuseOpts:
+      shouldSort: true
+      threshold: 0.1
+      ignoreLocation: true
+      keys: ["title", "permalink", "summary", "description"]
+    imageUrl: "/img/me.png"
+    imageTitle: "MerAt Akbari HeadShot"
+    imageWidth: 256 # custom size
+    imageHeight: 256 # custom size
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: true
+    ShowFullTextinRSS: true
+    ShowPageNums: true
+    ShowPostNavLinks: true
+    ShowReadingTime: true
+    ShowRssButtonInSectionTermList: true
+    ShowTOC: true
+    ShowShareButtons: false
+    subtitle: "Back-End Software Engineer | Golang & Node.js Specialist | DevOps & Scalable Systems Enthusiast | Martial Arts | He/Him"
+    title: "MerAt Akbari"
+
+  schema:
+    publisherType: "Person"
+    sameAs:
+      - "https://www.linkedin.com/in/thechrisshort"
+
+  socialIcons: # optional
+    - name: "github"
+      url: "https://github.com/meraaat"
+    - name: "LinkedIn"
+      url: "https://www.linkedin.com/in/merat_akbari"
+    - name: "email"
+      url: "mailto:mera1takbari@gmail.com"
+
+imaging:
+  exif:
+    includeFields: ""
+    disableDate: false
+    disableLatLong: true
+
+markup:
+  highlight:
+    codeFences: true
+    guessSyntax: true
+    lineNos: true
+  goldmark:
+    renderer:
+      unsafe: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+
+pagination:
+  pagerSize: 5
+
+privacy:
+  disqus:
+    disable: true
+  googleAnalytics:
+    disable: true
+  instagram:
+    disable: false
+    simple: false
+  twitter:
+    disable: false
+    enableDNT: true
+    simple: false
+  vimeo:
+    disable: false
+    simple: false
+  youtube:
+    disable: false
+    privacyEnhanced: true
+
+services:
+  instagram:
+    disableInlineCSS: true
+  twitter:
+    disableInlineCSS: true
+  rss:
+    limit: 10
