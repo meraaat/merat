@@ -21,6 +21,8 @@ TOCOpen: false
 
 # Mohammadali “Merat” Akbari
 
+  **Software Engineer | Golang & Node.js Specialist | DevOps & Scalable Systems Enthusiast**
+
 - **Email:** meratakbari@gmail.com  
 - **Phone:** +31658851424  
 - **Location:** Leeuwarden, Netherlands  
@@ -35,7 +37,7 @@ Software Engineer leveraging 6+ years designing and developing scalable microser
 - **Languages & Frameworks:** Golang, Node.js, JavaScript, TypeScript, Java, Express.js, Nest.js, Flutter  
 - **Databases:** MongoDB, PostgreSQL, MySQL, Redis, Elasticsearch  
 - **Tools & Platforms:** Docker, Kubernetes, Jenkins, Git, GitLab, GitHub 
-- **Development Practices:** Agile, CI/CD, TDD, Software Development, Software Testing, OOP, Functional Programming, SOLID, Design Patterns, Third-Party API Connections, Restful Services  
+- **Development Practices:** Agile, Kanban, AWS, CI/CD, TDD, Software Development, Software Testing, OOP, Functional Programming, SOLID, Design Patterns, Third-Party API Connections, Restful Services  
 - **Operating Systems:** Linux
 
 ## Experience
@@ -55,7 +57,7 @@ Software Engineer leveraging 6+ years designing and developing scalable microser
 
 - Developed and optimized services and sub-services for a microservice-based employee management platform using **Nest.js** and **Typescript**, orchestrating seamless data workflows for 20+ organizations.
 - Implemented **Elasticsearch** integration, slashing query response times by 35% and dramatically elevating user satisfaction.
-- Pioneered **CI/CD** pipelines from the ground up for three teams, reducing development cycles by 30% and accelerating feature delivery.
+- Pioneered **CI/CD** pipelines from the ground up for 3 teams, reducing development cycles by 30% and accelerating feature delivery.
 - Orchestrated CI/CD workflows with **GitLab CI/CD** and **Jenkins**, executing 12-15 daily zero-downtime deployments, boosting developer productivity by 25%.
 
 ### Backend Developer  
@@ -69,18 +71,12 @@ Software Engineer leveraging 6+ years designing and developing scalable microser
 
 ### Mobile Application Developer (Prior Stack)  
 **Ubim • Kermanshah, Iran · On-site**  
-*09/2019 - 10/2020*
+*04/2017 - 10/2020*
 
-- Architected and launched a cross-platform mobile application using **Flutter**, driving a 25% surge in customer engagement.
-- Propelled user acquisition to 1,500 users during the acceleration phase, achieving a 20% monthly growth rate.
-- Partnered with **UI/UX** designers to craft an intuitive interface, resulting in a 25% improvement in customer satisfaction scores.
-
-### Junior Mobile Application Developer (Prior Stack)  
-**Behpouya • Kermanshah, Iran · On-Site**  
-*04/2017 - 03/2019*
-
-- Designed and implemented a fully functional eBay-style e-commerce platform, collaborating with **UI/UX** teams to create user-centric design solutions that garnered positive feedback from 90% of initial testers.
-- Configured migration to **Flutter**, implementing sophisticated animations and modern **UI/UX** elements, resulting in a 40% increase in user engagement.
+- Designed and implemented a fully functional eBay-style e-commerce platform, partnering with **UI/UX** teams to create user-centric designs that received positive feedback from 90% of initial testers.
+- Architected and launched a cross-platform mobile application using **Flutter**, resulting in a 25% increase in customer engagement.
+- Drove user acquisition to 1,500 users during the initial launch phase, achieving a 20% monthly growth rate.
+- Led the migration to Flutter, implementing advanced animations and modern UI/UX elements, which increased user engagement by 40%.
 
 ## Education
 
