@@ -5,7 +5,7 @@ aliases:
 - cv
 author: MerAt Akbari
 date: "2025-01-12"
-lastmod: "2025-01-02"
+lastmod: "2025-02-24"
 description: Software Engineer with over 6 years of experience spanning Development and DevOps.
 tags:
 - resume
@@ -23,26 +23,27 @@ TOCOpen: false
 
   **Software Engineer | Golang & Node.js Specialist | DevOps & Scalable Systems Enthusiast**
 
-- **Email:** meratakbari@gmail.com  
+- **Email:** <meratakbari@gmail.com>  
 - **Phone:** +31658851424  
 - **Location:** Leeuwarden, Netherlands  
-- **LinkedIn:** https://www.linkedin.com/in/merat-akbari/  
+- **LinkedIn:** <https://www.linkedin.com/in/merat-akbari/>  
 
 ## Summary
 
-Software Engineer leveraging 6+ years designing and developing scalable microservices, monolithic applications, and enterprise-level systems using **Golang**, **Node.js** (**Nest.js** and **Express.js**). Consistently delivered 20-35% performance improvements through system optimization with **PostgreSQL**, **MongoDB**, and **Elasticsearch**.
+Software Engineer with 6+ years designing and developing scalable microservices, monolithic applications, and enterprise-level systems using **Golang**, **Node.js** (**Nest.js** and **Express.js**). Consistently delivered 20-35% performance improvements through system optimization with **PostgreSQL**, **MongoDB**, and **Elasticsearch**, experienced in leading cross-cultural teams across multiple international offices, resulting in improved team productivity and knowledge sharing.
 
 ## Skills
 
 - **Languages & Frameworks:** Golang, Node.js, JavaScript, TypeScript, Java, Express.js, Nest.js, Flutter  
 - **Databases:** MongoDB, PostgreSQL, MySQL, Redis, Elasticsearch  
-- **Tools & Platforms:** Docker, Kubernetes, Jenkins, Git, GitLab, GitHub 
+- **Tools & Platforms:** Docker, Kubernetes, Jenkins, Git, GitLab, GitHub
 - **Development Practices:** Agile, Kanban, AWS, CI/CD, TDD, Software Development, Software Testing, OOP, Functional Programming, SOLID, Design Patterns, Third-Party API Connections, Restful Services  
 - **Operating Systems:** Linux
 
 ## Experience
 
 ### Software Engineer  
+
 **CRStrip • Dubai, United Arab Emirates · Remote**  
 *10/2023 - Present*
 
@@ -52,6 +53,7 @@ Software Engineer leveraging 6+ years designing and developing scalable microser
 - Mentored team members in Docker and Kubernetes best practices, spearheading deployment process improvements that yielded a 40% reduction in errors.
 
 ### Software Engineer  
+
 **Research Center for Developing Advanced Technologies (RCDAT) • Tehran, Iran · On-site**  
 *06/2022 - 09/2023*
 
@@ -61,15 +63,17 @@ Software Engineer leveraging 6+ years designing and developing scalable microser
 - Orchestrated CI/CD workflows with **GitLab CI/CD** and **Jenkins**, executing 12-15 daily zero-downtime deployments, boosting developer productivity by 25%.
 
 ### Backend Developer  
+
 **Mizan Gostaran Sharif • Tehran, Iran · On-site**  
 *01/2021 - 04/2022*
 
-- Developed and launched a sophisticated employment platform featuring a targeted recommender system; facilitated precise matches between job seeker qualifications and employer criteria while supporting more than 1,000 concurrent users.
+- Developed and launched a sophisticated employment platform featuring a targeted recommender system; facilitated precise matches between job seeker qualifications and employer criteria while supporting over 1,000 concurrent users.
 - Optimized **MongoDB** database architecture, managing complex data relationships for 500+ job seekers and 200+ employers.
 - Spearheaded comprehensive testing infrastructure development, reducing system errors by 20% and strengthening project stability.
 - Revolutionized legacy codebase, enabling 20 new feature implementations and driving a 15% sales increase within the first quarter.
 
 ### Mobile Application Developer (Prior Stack)  
+
 **Ubim • Kermanshah, Iran · On-site**  
 *04/2017 - 10/2020*
 
@@ -87,5 +91,6 @@ Software Engineer leveraging 6+ years designing and developing scalable microser
 
 ## Languages
 
-- **English**  
-- **Persian**
+- Dutch        (Beginner)      -    Currently improving through professional development.
+- English      (Proficient)    -    Daily professional communication in international teams.
+- Persian      (Native)        -    Technical and business communication.
