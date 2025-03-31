@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>About on MerAt Akbari</title>
+    <link>https://meratakbari.com/tags/about/</link>
+    <description>Recent content in About on MerAt Akbari</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Jan 2025 00:00:00 +0100</lastBuildDate>
+    <atom:link href="https://meratakbari.com/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About MerAt Akbari</title>
+      <link>https://meratakbari.com/about/</link>
+      <pubDate>Sun, 12 Jan 2025 00:00:00 +0100</pubDate>
+      <guid>https://meratakbari.com/about/</guid>
+      <description>About MerAt</description>
+    </item>
+  </channel>
+</rss>

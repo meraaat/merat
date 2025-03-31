@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cv on MerAt Akbari</title>
+    <link>https://meratakbari.com/tags/cv/</link>
+    <description>Recent content in Cv on MerAt Akbari</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Feb 2025 00:00:00 +0100</lastBuildDate>
+    <atom:link href="https://meratakbari.com/tags/cv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MerAt&#39;s Resume</title>
+      <link>https://meratakbari.com/resume/</link>
+      <pubDate>Sun, 12 Jan 2025 00:00:00 +0100</pubDate>
+      <guid>https://meratakbari.com/resume/</guid>
+      <description>Software Engineer with over 6 years of experience spanning Development and DevOps.</description>
+    </item>
+  </channel>
+</rss>

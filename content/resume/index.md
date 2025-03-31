@@ -55,22 +55,16 @@ Software Engineer with 6+ years designing and developing scalable microservices,
 ### Software Engineer  
 
 **Research Center for Developing Advanced Technologies (RCDAT) • Tehran, Iran · On-site**  
-*06/2022 - 09/2023*
+*01/2021 - 09/2023*
+- Designed and optimized microservices architecture for scalable platforms using **Nest.js, Express.js, and TypeScript**, enhancing system reliability for 20+ organizations.  
+- Engineered resilient data pipelines utilizing **Kafka and RabbitMQ**, processing 500,000+ messages per minute with <50ms latency, optimizing data flow across 20+ microservices.  
+- Implemented Elasticsearch, reducing query response times by 35% and enhancing user satisfaction.  
+- Built and launched an employment platform with a targeted recommender system, enabling precise job matches for 1,000+ concurrent users.  
+- Refactored MongoDB database architecture and introduced **DynamoDB**, optimizing data retrieval for 500+ job seekers and 200+ employers.  
+- Pioneered the creation of CI/CD pipelines utilizing **Jenkins and Docker** for three development teams, decreasing the average development cycle time by 30% and enabling faster feature deployment.  
+- Spearheaded testing infrastructure improvements using **Jest and Mocha**, cutting system errors by 20% and strengthening project stability.  
+- Modernized a legacy codebase, enabling the implementation of 20+ new features and increasing sales by 15% within one quarter.  
 
-- Developed and optimized services and sub-services for a microservice-based employee management platform using **Nest.js** and **Typescript**, orchestrating seamless data workflows for 20+ organizations.
-- Implemented **Elasticsearch** integration, slashing query response times by 35% and dramatically elevating user satisfaction.
-- Pioneered **CI/CD** pipelines from the ground up for 3 teams, reducing development cycles by 30% and accelerating feature delivery.
-- Orchestrated CI/CD workflows with **GitLab CI/CD** and **Jenkins**, executing 12-15 daily zero-downtime deployments, boosting developer productivity by 25%.
-
-### Backend Developer  
-
-**Mizan Gostaran Sharif • Tehran, Iran · On-site**  
-*01/2021 - 04/2022*
-
-- Developed and launched a sophisticated employment platform featuring a targeted recommender system; facilitated precise matches between job seeker qualifications and employer criteria while supporting over 1,000 concurrent users.
-- Optimized **MongoDB** database architecture, managing complex data relationships for 500+ job seekers and 200+ employers.
-- Spearheaded comprehensive testing infrastructure development, reducing system errors by 20% and strengthening project stability.
-- Revolutionized legacy codebase, enabling 20 new feature implementations and driving a 15% sales increase within the first quarter.
 
 ### Mobile Application Developer (Prior Stack)  
 
