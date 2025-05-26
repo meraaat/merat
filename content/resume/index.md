@@ -21,7 +21,7 @@ TOCOpen: false
 
 # Mohammadali “Merat” Akbari
 
-  **Software Engineer | Golang & Node.js Specialist | DevOps & Scalable Systems Enthusiast**
+  **Software Engineer | Golang, Node.js & React.js Specialist | DevOps & Scalable Systems Enthusiast**
 
 - **Email:** <meratakbari@gmail.com>  
 - **Phone:** +31658851424  
@@ -30,7 +30,7 @@ TOCOpen: false
 
 ## Summary
 
-Software Engineer with 6+ years designing and developing scalable microservices, monolithic applications, and enterprise-level systems using **Golang**, **Node.js** (**Nest.js** and **Express.js**). Consistently delivered 20-35% performance improvements through system optimization with **PostgreSQL**, **MongoDB**, and **Elasticsearch**, experienced in leading cross-cultural teams across multiple international offices, resulting in improved team productivity and knowledge sharing.
+Software Engineer with 6+ years designing and developing scalable microservices, monolithic applications, and enterprise-level systems using **Golang**, **Node.js** (**Nest.js** and **Express.js**), and **React.js**. Consistently delivered 20-35% performance improvements through system optimization with **PostgreSQL**, **MongoDB**, and **Elasticsearch**, experienced in leading cross-cultural teams across multiple international offices, resulting in improved team productivity and knowledge sharing. Currently in the beautiful Netherlands on a dependent visa, seeking visa-sponsored opportunities.
 
 ## Skills
 
@@ -56,6 +56,7 @@ Software Engineer with 6+ years designing and developing scalable microservices,
 
 **Research Center for Developing Advanced Technologies (RCDAT) • Tehran, Iran · On-site**  
 *01/2021 - 09/2023*
+
 - Designed and optimized microservices architecture for scalable platforms using **Nest.js, Express.js, and TypeScript**, enhancing system reliability for 20+ organizations.  
 - Engineered resilient data pipelines utilizing **Kafka and RabbitMQ**, processing 500,000+ messages per minute with <50ms latency, optimizing data flow across 20+ microservices.  
 - Implemented Elasticsearch, reducing query response times by 35% and enhancing user satisfaction.  
@@ -65,16 +66,15 @@ Software Engineer with 6+ years designing and developing scalable microservices,
 - Spearheaded testing infrastructure improvements using **Jest and Mocha**, cutting system errors by 20% and strengthening project stability.  
 - Modernized a legacy codebase, enabling the implementation of 20+ new features and increasing sales by 15% within one quarter.  
 
-
-### Mobile Application Developer (Prior Stack)  
+### Fullstack Developer  
 
 **Ubim • Kermanshah, Iran · On-site**  
 *04/2017 - 10/2020*
 
-- Designed and implemented a fully functional eBay-style e-commerce platform, partnering with **UI/UX** teams to create user-centric designs that received positive feedback from 90% of initial testers.
-- Architected and launched a cross-platform mobile application using **Flutter**, resulting in a 25% increase in customer engagement.
+- Designed and developed an eBay-style e-commerce platform using **React.js** and **Node.js**, supporting 2,000+ active product listings and handling up to 7,000 concurrent users.
+-Improved system performance and code maintainability by implementing a modular architecture and integrating RESTful APIs, resulting in a 45% reduction in frontend load time and a 60% improvement in backend response time.
 - Drove user acquisition to 1,500 users during the initial launch phase, achieving a 20% monthly growth rate.
-- Led the migration to Flutter, implementing advanced animations and modern UI/UX elements, which increased user engagement by 40%.
+- Led the migration to React.js, implementing advanced animations and modern UI/UX elements, which increased user engagement by 40%.
 
 ## Education
 
