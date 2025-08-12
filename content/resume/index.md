@@ -6,7 +6,7 @@ aliases:
 author: MerAt Akbari
 date: "2025-01-12"
 lastmod: "2025-02-24"
-description: Software Engineer with over 6 years of experience spanning Development and DevOps.
+description: Software Engineer with over 8 years of experience spanning Development and DevOps.
 tags:
 - resume
 - cv
