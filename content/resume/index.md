@@ -5,7 +5,7 @@ aliases:
 - cv
 author: MerAt Akbari
 date: "2025-01-12"
-lastmod: "2025-02-24"
+lastmod: "2025-09-04"
 description: Software Engineer with over 8 years of experience spanning Development and DevOps.
 tags:
 - resume
@@ -30,7 +30,7 @@ TOCOpen: false
 
 ## Summary
 
-Software Engineer with 6+ years designing and developing scalable microservices, monolithic applications, and enterprise-level systems using **Golang**, **Node.js** (**Nest.js** and **Express.js**), and **React.js**. Consistently delivered 20-35% performance improvements through system optimization with **PostgreSQL**, **MongoDB**, and **Elasticsearch**, experienced in leading cross-cultural teams across multiple international offices, resulting in improved team productivity and knowledge sharing. Currently in the beautiful Netherlands on a dependent visa, seeking visa-sponsored opportunities.
+Software Engineer with 8+ years designing and developing scalable microservices, monolithic applications, and enterprise-level systems using **Golang**, **Node.js** (**Nest.js** and **Express.js**), and **React.js**. Consistently delivered 20-35% performance improvements through system optimization with **PostgreSQL**, **MongoDB**, and **Elasticsearch**, experienced in leading cross-cultural teams across multiple international offices, resulting in improved team productivity and knowledge sharing. Currently in the beautiful Netherlands on a dependent visa, seeking visa-sponsored opportunities.
 
 ## Skills
 
